@@ -3,7 +3,7 @@ My first repository
       
 # My Favorite Anime: *Hunter x Hunter*
 
-![Hunter x Hunter](https://upload.wikimedia.org/wikipedia/en/4/44/Hunter_x_Hunter_2011_Anime_Logo.png)
+![Hunter x Hunter](https://dw9to29mmj727.cloudfront.net/promo/2016/6231-SeriesHeaders_HxH_2000x800.jpg)
 
 ## Overview
 
