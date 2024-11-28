@@ -3,7 +3,8 @@ My first repository
       
 # My Favorite Anime: *Hunter x Hunter*
 
-https://fusetees.wordpress.com/wp-content/uploads/2023/03/image-6.png
+![Hunter x Hunter](https://fusetees.wordpress.com/wp-content/uploads/2023/03/image-6.png)
+
 
 
 ## Overview
